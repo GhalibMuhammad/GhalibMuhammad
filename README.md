@@ -5,28 +5,27 @@
 
 ## About Me
 
-I'm a passionate software developer specializing in PHP and the Laravel framework. I love building robust web applications and continuously learning new technologies to improve my skills.
+I'm a passionate junior software developer specializing in PHP and the Laravel framework. I love building robust web applications and continuously learning new technologies to improve my skills.
 
 - 🌱 I’m currently mastering **Laravel**
 - 👯 I’m looking to collaborate on **open-source Laravel projects**
 - 💬 Ask me about **PHP, Laravel, and web development**
 - 📫 How to reach me: [ksatriawanmuhammadghalib@gmail.com](mailto:ksatriawanmuhammadghalib@gmail.com)
-- ⚡ Fun fact: **I love solving complex problems and turning ideas into reality through code**
+
 
 ## My Skills
 
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/GhalibMuhammad)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/GhalibMuhammad)
 
 ## Recent Projects
 
@@ -37,6 +36,6 @@ I'm a passionate software developer specializing in PHP and the Laravel framewor
 ## Connect with Me
 
 - LinkedIn: [yourlinkedin](https://www.linkedin.com/in/yourlinkedin/)
-- Twitter: [yourtwitter](https://twitter.com/yourtwitter)
+- Email: [yourtwitter](ksatriawanmuhammadghalib@gmail.com)
 - Blog: [yourblog](https://yourblog.com)
 
