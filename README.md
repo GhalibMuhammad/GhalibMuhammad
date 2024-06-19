@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Ghalib Ksatriawan! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/GhalibMuhammad?label=Follow&style=social)](https://github.com/GhalibMuhammad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin/)
 
 ## About Me
@@ -19,23 +19,22 @@ I'm a passionate junior software developer specializing in PHP and the Laravel f
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?GhalibMuhammad=yourusername&show_icons=true&theme=dark)](https://github.com/GhalibMuhammad)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?GhalibMuhammad=yourusername&layout=compact&theme=dark)](https://github.com/GhalibMuhammad)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhalibMuhammad&show_icons=true&theme=dark)](https://github.com/GhalibMuhammad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhalibMuhammad&layout=compact&theme=dark)](https://github.com/GhalibMuhammad)
 
 ## Recent Projects
 
-- [Project 1](https://github.com/yourusername/project1) - A Laravel-based web application for managing tasks.
-- [Project 2](https://github.com/yourusername/project2) - An e-commerce platform built with PHP and Laravel.
-- [Project 3](https://github.com/yourusername/project3) - A blog platform developed using Laravel.
+- [Project 1](https://github.com/GhalibMuhammad/project1) - A Laravel-based web application for managing tasks.
+- [Project 2](https://github.com/GhalibMuhammad/project2) - An e-commerce platform built with PHP and Laravel.
+- [Project 3](https://github.com/GhalibMuhammad/project3) - A blog platform developed using Laravel.
 
 ## Connect with Me
 
 - LinkedIn: [yourlinkedin](https://www.linkedin.com/in/yourlinkedin/)
-- Email: [yourtwitter](ksatriawanmuhammadghalib@gmail.com)
+- Email: [ksatriawanmuhammadghalib@gmail.com](mailto:ksatriawanmuhammadghalib@gmail.com)
 - Blog: [yourblog](https://yourblog.com)
-
