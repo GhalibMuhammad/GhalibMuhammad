@@ -23,9 +23,9 @@ I'm a passionate junior software developer specializing in PHP and the Laravel f
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/GhalibMuhammad)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?GhalibMuhammad=yourusername&show_icons=true&theme=dark)](https://github.com/GhalibMuhammad)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/GhalibMuhammad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?GhalibMuhammad=yourusername&layout=compact&theme=dark)](https://github.com/GhalibMuhammad)
 
 ## Recent Projects
 
