@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a passionate junior software developer specializing in PHP and the Laravel framework. I love building robust web applications and continuously learning new technologies to improve my skills.
+I'm a passionate junior backend developer specializing in PHP and the Laravel framework. I love building robust web applications and continuously learning new technologies to improve my skills.
 
 - 🌱 I’m currently mastering **Laravel**
 - 👯 I’m looking to collaborate on **open-source Laravel projects**
@@ -19,7 +19,6 @@ I'm a passionate junior software developer specializing in PHP and the Laravel f
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 
 ## GitHub Stats
