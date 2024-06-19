@@ -1,28 +1,26 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Muhammad Ghalib Ksatriawan! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin/)
 
 ## About Me
 
-I'm a passionate software developer with a love for learning and sharing knowledge. I have experience in various programming languages and frameworks, and I enjoy working on open-source projects.
+I'm a passionate software developer specializing in PHP and the Laravel framework. I love building robust web applications and continuously learning new technologies to improve my skills.
 
-- 🌱 I’m currently learning **[Technology/Framework]**
-- 👯 I’m looking to collaborate on **[Project/Interest]**
-- 🤔 I’m looking for help with **[Project/Technology]**
-- 💬 Ask me about **[Topic/Technology]**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 🌱 I’m currently mastering **Laravel**
+- 👯 I’m looking to collaborate on **open-source Laravel projects**
+- 💬 Ask me about **PHP, Laravel, and web development**
+- 📫 How to reach me: [ksatriawanmuhammadghalib@gmail.com](mailto:ksatriawanmuhammadghalib@gmail.com)
+- ⚡ Fun fact: **I love solving complex problems and turning ideas into reality through code**
 
 ## My Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ## GitHub Stats
 
@@ -32,9 +30,9 @@ I'm a passionate software developer with a love for learning and sharing knowled
 
 ## Recent Projects
 
-- [Project 1](https://github.com/yourusername/project1) - Description of project 1.
-- [Project 2](https://github.com/yourusername/project2) - Description of project 2.
-- [Project 3](https://github.com/yourusername/project3) - Description of project 3.
+- [Project 1](https://github.com/yourusername/project1) - A Laravel-based web application for managing tasks.
+- [Project 2](https://github.com/yourusername/project2) - An e-commerce platform built with PHP and Laravel.
+- [Project 3](https://github.com/yourusername/project3) - A blog platform developed using Laravel.
 
 ## Connect with Me
 
